@@ -1,0 +1,10 @@
+# Pinned to the versions used for the pilot runs (October 2026).
+qiskit>=2.5,<3.0
+qiskit-aer>=0.17,<0.18
+qiskit-ibm-runtime>=0.50,<0.51
+networkx>=3.2
+numpy>=2.0
+scipy>=1.11
+pandas>=2.1
+matplotlib>=3.8
+pytest>=8.0

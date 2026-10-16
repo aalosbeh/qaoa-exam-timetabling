@@ -13,7 +13,7 @@ benchmarked against Simulated Annealing and exact enumeration.
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-user>/qaoa-exam-timetabling.git
+git clone https://github.com/aalosbeh/qaoa-exam-timetabling.git
 cd qaoa-exam-timetabling
 python -m venv venv && source venv/bin/activate      # Windows: venv\Scripts\activate
 pip install -r requirements.txt
